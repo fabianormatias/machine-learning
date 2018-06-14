@@ -1,4 +1,4 @@
-# eh gordinho? tem perninha curta? se faz au au
+# eh gordinho? tem perninha curta? faz au au?
 porco1 =    [1, 1, 0]
 porco2 =    [1, 1, 0]
 porco3 =    [1, 1, 0]
